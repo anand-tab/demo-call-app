@@ -13,7 +13,7 @@ import java.net.URI;
 @SpringBootApplication
 public class DemoCallAppApplication implements ApplicationRunner {
 	private final static String SID_ACCOUNT = "ACbcb8bf54c8af8cbca9479b41264d91cf";
-	private final static String AUTH_ID = "a02a0159881f573dbc8264c6b5875890";
+	private final static String AUTH_ID = "*******************";
 	private final static String FROM_NUMBER="+12536550005";
 	private final static String TO_NUMBER ="+917992310106";
 	static {
